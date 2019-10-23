@@ -1,3 +1,1 @@
-Create a New Azure Resource:
-				                        Resource Group
-					                       Virtual Network (Subnet)
+Create a New Azure Resource Group, Vnet & Subnet.
