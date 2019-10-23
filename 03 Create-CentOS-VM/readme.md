@@ -1,0 +1,1 @@
+Create a New CentOS VM (Storage Account, Public IP, NIC), Resource Group & Virtual Network, Subnet & NSG
