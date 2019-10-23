@@ -1,0 +1,6 @@
+Create a New Azure Resource:
+				Resource Group
+				Virtual Network	(Subnet)
+				VM (Storage Account, Public IP, NIC (NSG))
+
+		
