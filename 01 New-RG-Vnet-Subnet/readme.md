@@ -1,3 +1,3 @@
-
-sfsszdfgvsvs f gfg
- fgdfgdfg
+Create a New Azure Resource:
+				                        Resource Group
+					                       Virtual Network (Subnet)
